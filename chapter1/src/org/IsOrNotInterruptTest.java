@@ -14,6 +14,8 @@ public class IsOrNotInterruptTest {
 
         threadOne.interrupt();
 
+        //threadOne.join();
+
         System.out.println("isInterrupted:" + threadOne.isInterrupted());
 
         System.out.println("isInterrupted:" + Thread.interrupted());
