@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.alibaba:transmittabel-thread-local:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/transmittabel-thread-local/unknown/transmittabel-thread-local-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/transmittabel-thread-local/unknown/transmittabel-thread-local-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/transmittabel-thread-local/unknown/transmittabel-thread-local-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
